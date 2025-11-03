@@ -1,6 +1,6 @@
 // PopupForms.js - React component file with all three popup forms
 import React, { useState, useEffect } from 'react';
-import '../styles/popupForms.css';
+import '../styles/popupforms.css';
 const PopupForms = ({
     activeEVPopup,
     setActiveEVPopup,
